@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "data": {
+    "api": {
+      "upms": "http://192.168.1.55:9034/upms/",
+
+      "cDrgPms": "http://192.168.1.55:9034/cDrgPms/",
+
+      "testcDrgPms": "http://192.168.2.84:8084/"
+    },
+    "theme": "blueNormal",
+    "title": "",
+    "subTitle": "深圳市DRG综合管理应用平台"
+  }
+}
